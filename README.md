@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Niya! <br/><a href="https://www.linkedin.com/in/niya-roberts-a044951b7/">Blank</a>, <a href="https://www.linkedin.com/in/niya-roberts-a044951b7/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/niya-roberts-a044951b7/">Blank</a></h1>
+
+<h2>👨‍💻 Security Projects:</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+
+
+[linkedin]: (https://www.linkedin.com/in/niya-roberts-a044951b7/)
 
 <!--
-**Niya-Roberts/Niya-Roberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
