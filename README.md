@@ -1,4 +1,4 @@
-<h1>Hi, I'm Niya! <br/>
+<h1>Hi, I'm Niya!
 
 
 <h2>👨‍💻 Security Projects:</h2>
