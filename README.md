@@ -1,8 +1,6 @@
 # Hello, I'm Niya!
 <a href="https://www.linkedin.com/in/niya-roberts-a044951b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity student pursuing a B.S. in Cybersecurity with CompTIA Security+ certification in progress. Focused on network security, vulnerability analysis, and secure development practices. This repository showcases hands-on projects and tools built while applying coursework to real-world security concepts.
-
 ## Objective
 This repository showcases a collection of cybersecurity projects aimed at demonstrating practical, applied skills in areas such as network security, vulnerability analysis, and threat detection. Each project reflects concepts learned through coursework and independent study, with the goal of translating academic knowledge into real-world security competency.
 
