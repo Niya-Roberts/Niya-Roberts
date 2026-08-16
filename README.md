@@ -5,7 +5,7 @@
 This repository showcases a collection of cybersecurity projects aimed at demonstrating practical, applied skills in areas such as network security, vulnerability analysis, and threat detection. Each project reflects concepts learned through coursework and independent study, with the goal of translating academic knowledge into real-world security competency.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
